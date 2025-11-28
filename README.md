@@ -102,30 +102,30 @@
   ![07 – Gestion classes](screenshoots/07-Gestion_Classe.png)
 - **08 – Gestion des notes**  
   ![08 – Gestion notes](screenshoots/08-Gestion_Note.png)
-- **Ajout d’un utilisateur**  
-  ![Ajout utilisateur](screenshoots/Ajout_Utilisateur.png)
-- **Détail d’un élève**  
-  ![Détail élève](screenshoots/Details_Eleve.png)
-- **Détail d’un professeur**  
-  ![Détail professeur](screenshoots/Details_Prof.png)
-- **Détail d’une note**  
-  ![Détail note](screenshoots/Details_Note.png)
-- **Détail d’un paiement**  
-  ![Détail paiement](screenshoots/Details_Paiement.png)
-- **Gestion des frais**  
-  ![Gestion des frais](screenshoots/Gestion_Frais.png)
-- **Gestion des paiements**  
-  ![Gestion des paiements](screenshoots/Gestion_Paiement.png)
-- **Rapport des paiements**  
-  ![Rapport paiements](screenshoots/Rapport_Paiement.png)
-- **Rapport des professeurs**  
-  ![Rapport professeurs](screenshoots/Rapport_Professeur.png)
-- **Vue globale des rapports**  
-  ![Rapports](screenshoots/Rapports.png)
-- **Impression des notes / bulletins**  
-  ![Impression des notes](screenshoots/Impression_Note.png)
-- **Page des paramètres de l’application**  
-  ![Paramètres](screenshoots/Parametre.png)
+- **09 – Gestion des paiements**  
+  ![09 – Gestion paiements](screenshoots/09-Gestion_Paiement.png)
+- **10 – Gestion des frais**  
+  ![10 – Gestion frais](screenshoots/10-Gestion_Frais.png)
+- **11 – Détail d’un élève**  
+  ![11 – Détail élève](screenshoots/11-Details_Eleve.png)
+- **12 – Détail d’un professeur**  
+  ![12 – Détail professeur](screenshoots/12-Details_Prof.png)
+- **13 – Détail d’une note**  
+  ![13 – Détail note](screenshoots/13-Details_Note.png)
+- **14 – Détail d’un paiement**  
+  ![14 – Détail paiement](screenshoots/14-Details_Paiement.png)
+- **15 – Ajout d’un utilisateur**  
+  ![15 – Ajout utilisateur](screenshoots/15-Ajout_Utilisateur.png)
+- **16 – Impression des notes / bulletins**  
+  ![16 – Impression des notes](screenshoots/16Impression_Note.png)
+- **17 – Vue globale des rapports**  
+  ![17 – Rapports](screenshoots/17-Rapports.png)
+- **18 – Rapport des professeurs**  
+  ![18 – Rapport professeurs](screenshoots/18-Rapport_Professeur.png)
+- **19 – Rapport des paiements**  
+  ![19 – Rapport paiements](screenshoots/19-Rapport_Paiement.png)
+- **20 – Page des paramètres de l’application**  
+  ![20 – Paramètres](screenshoots/20-Parametre.png)
 
 ## 🗄️ Architecture Base de Données
 
